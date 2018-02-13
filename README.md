@@ -18,7 +18,7 @@
 
 **Number of Attributes (fields within each record)**: 21.
 
-**Relevant Information**: For Further information about the attributes/feature see below  table.
+**Relevant Information**: 
 
 **Relevant Papers**:  
 1) Tabtah, F. (2017). Autism Spectrum Disorder Screening: Machine Learning Adaptation and DSM-5 Fulfillment. Proceedings of the 1st International Conference on Medical and Health Informatics 2017, pp.1-6. Taichung City, Taiwan, ACM.
@@ -29,8 +29,7 @@
 
 **Data Source**:
 
-Fadi Fayez Thabtah
-
+Fadi Fayez Thabtah\\
 Department of Digital Technology
 
 Manukau Institute of Technology,
