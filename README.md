@@ -30,11 +30,8 @@
 **Data Source**:
 
 Fadi Fayez Thabtah<p>
-Department of Digital Technology
-
-Manukau Institute of Technology,
-
-Auckland, New Zealand
-
+Department of Digital Technology<p>
+Manukau Institute of Technology<p>
+Auckland, New Zealand<p>
 fadi.fayez@manukau.ac.nz
 
